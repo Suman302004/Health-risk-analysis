@@ -228,11 +228,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+--
 
 ---
 
@@ -245,12 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Docker** for containerization technology
 
 ---
-
-## 📞 Contact
-
-**Mitesh** - [mitumitesh04@gmail.com](mailto:mitumitesh04@gmail.com)
-
-**Project Link**: [https://github.com/mitumitesh04/Health-risk-analysis-mlops](https://github.com/mitumitesh04/Health-risk-analysis-mlops)
 
 ---
 
